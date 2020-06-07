@@ -1,0 +1,5 @@
+classes= 1
+train  = /Applications/YOLOv3/ImageLabeling/image_paths.txt
+valid  = /Applications/YOLOv3/ImageLabeling/test_paths.txt
+names = /Applications/YOLOv3/ImageLabeling/Classes.txt
+backup = backup/
